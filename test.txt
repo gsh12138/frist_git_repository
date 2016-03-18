@@ -1,2 +1,2 @@
-git learning
+git learning a distributed version control system
 git is good
